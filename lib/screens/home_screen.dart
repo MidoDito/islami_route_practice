@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:islami_route/core/appassets_images.dart';
+import 'package:flutter_native_splash/flutter_native_splash.dart';
 
 class HomeScreen extends StatelessWidget {
   HomeScreen({super.key});
